@@ -34,7 +34,6 @@ public class Runner {
             while (!(currentAmountOfDigit == (k + 1))) {
                 currentAmountOfDigit--;
                 currentNumber /= 10;
-
             }
             System.out.println(currentNumber % 10);
         }
