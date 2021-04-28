@@ -1,7 +1,7 @@
 package tasks.task1;
 
 import java.util.Scanner;
-
+//ДЗ 1
 public class Runner {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
